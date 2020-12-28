@@ -1,0 +1,3 @@
+V003 Fix Manufacture Name display error and temperature display.
+V002 Add display Manufacture Name and other information.
+V001 Initial battery test basic function.
